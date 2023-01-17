@@ -5,6 +5,7 @@ import org.springframework.beans.BeansException;
 import java.util.Map;
 
 /**
+ *  ListableBeanFactory  拓展BeanFactory接口，增加bean获取方式
  * @author derekyi
  * @date 2020/11/28
  */

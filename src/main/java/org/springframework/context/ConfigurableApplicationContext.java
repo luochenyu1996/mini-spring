@@ -3,6 +3,7 @@ package org.springframework.context;
 import org.springframework.beans.BeansException;
 
 /**
+ *  拓展容器接口，增加控制容器的方法
  * @author derekyi
  * @date 2020/11/28
  */

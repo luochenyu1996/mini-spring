@@ -4,6 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
+ *  资源读取类的默认实现
  * @author derekyi
  * @date 2020/11/25
  */

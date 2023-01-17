@@ -20,6 +20,9 @@ import java.util.Map;
 /**
  * 抽象应用上下文
  *
+ * 实现 refresh()
+ *
+ *
  * @author derekyi
  * @date 2020/11/28
  */

@@ -8,6 +8,7 @@ import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.beans.factory.support.AbstractBeanFactory;
 
 /**
+ * 继续拓展接口 BeanFactory
  * @author derekyi
  * @date 2020/11/28
  */
@@ -23,7 +24,7 @@ public interface ConfigurableListableBeanFactory extends ListableBeanFactory, Au
 	BeanDefinition getBeanDefinition(String beanName) throws BeansException;
 
 	/**
-	 * 提前实例化所有单例实例
+	 * 提前实例化所有单例实例（实例化bean）
 	 *
 	 * @throws BeansException
 	 */
