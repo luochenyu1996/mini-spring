@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
+ * 这段源码解释了 占位符是如何解析的
  * @author derekyi
  * @date 2020/12/13
  */

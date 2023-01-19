@@ -5,6 +5,8 @@ import org.springframework.beans.BeansException;
 /**
  * xml文件的应用上下文
  *
+ * 这个类的职责主意是用来 针对xml 文件的加载方式
+ *
  * @author derekyi
  * @date 2020/11/28
  */
